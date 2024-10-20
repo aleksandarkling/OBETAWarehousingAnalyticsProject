@@ -1,2 +1,5 @@
 *.cvs
 *.xlsx
+*.env
+*.ini
+*.json
